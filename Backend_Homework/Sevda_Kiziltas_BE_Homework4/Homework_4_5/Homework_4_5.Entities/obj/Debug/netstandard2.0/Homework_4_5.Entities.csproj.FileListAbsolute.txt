@@ -1,0 +1,12 @@
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\bin\Debug\netstandard2.0\Homework_4_5.Entities.deps.json
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\bin\Debug\netstandard2.0\Homework_4_5.Entities.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\bin\Debug\netstandard2.0\Homework_4_5.Entities.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\bin\Debug\netstandard2.0\Homework_4_5.Core.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\bin\Debug\netstandard2.0\Homework_4_5.Core.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.csprojAssemblyReference.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.AssemblyInfoInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.AssemblyInfo.cs
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.csproj.CopyComplete
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Entities\obj\Debug\netstandard2.0\Homework_4_5.Entities.pdb

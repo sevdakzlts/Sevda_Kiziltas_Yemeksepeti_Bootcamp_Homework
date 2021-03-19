@@ -1,0 +1,9 @@
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\bin\Debug\netstandard2.0\Homework_4_5.Core.deps.json
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\bin\Debug\netstandard2.0\Homework_4_5.Core.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\bin\Debug\netstandard2.0\Homework_4_5.Core.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.csprojAssemblyReference.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.AssemblyInfoInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.AssemblyInfo.cs
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Core\obj\Debug\netstandard2.0\Homework_4_5.Core.pdb

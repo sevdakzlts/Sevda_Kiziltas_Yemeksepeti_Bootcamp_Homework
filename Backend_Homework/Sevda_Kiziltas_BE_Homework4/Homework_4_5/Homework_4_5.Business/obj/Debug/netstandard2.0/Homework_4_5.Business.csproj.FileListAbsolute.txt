@@ -1,0 +1,16 @@
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Core.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.DataAccess.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Entities.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.csprojAssemblyReference.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.AssemblyInfoInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.AssemblyInfo.cs
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Business.deps.json
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Business.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Business.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.DataAccess.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Entities.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\bin\Debug\netstandard2.0\Homework_4_5.Core.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.csproj.CopyComplete
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework_4_5\Homework_4_5.Business\obj\Debug\netstandard2.0\Homework_4_5.Business.pdb

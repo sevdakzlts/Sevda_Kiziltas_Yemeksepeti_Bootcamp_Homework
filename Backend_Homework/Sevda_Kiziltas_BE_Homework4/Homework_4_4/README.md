@@ -17,7 +17,6 @@ You can use  [Swagger](https://www.nuget.org/packages/Swashbuckle.AspNetCore.Swa
 
 ## Dependencies
 - [.Net5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
-- [Microsoft.EntityFrameworkCore5.0.3](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 - [Swashbuckle.AspNetCore5.6.3](https://www.nuget.org/packages/Swashbuckle.AspNetCore.Swagger/)
 
 > For more information you can use [this repository](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) and [swagger.io](https://swagger.io/),
